@@ -15,3 +15,9 @@ Learning about modern frameworks and libraries.
 🎯 Goals:
 To contribute to open-source projects and collaborate with other developers.
 To secure a role as a Software Developer where I can solve real-world problems.
+
+📫 Let's Connect:
+Feel free to reach out on LinkedIn — I'm always excited to connect with like-minded people!
+
+💡 Fun Fact:
+I love brainstorming new ideas, exploring tech trends, and believe in continuous learning!
