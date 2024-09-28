@@ -23,6 +23,6 @@ Feel free to reach out on LinkedIn — I'm always excited to connect with like-m
 I love brainstorming new ideas, exploring tech trends, and believe in continuous learning!
 
 <!--view count-->
-<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=neeru24&&style=for-the-badge" /> </p>
+<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=Princetiwari90&&style=for-the-badge" /> </p>
 <!--line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
