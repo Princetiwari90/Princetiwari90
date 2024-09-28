@@ -1,9 +1,7 @@
 <h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/prince-tiwari-666aa0299" target="_blank">PRINCE TIWARI</h1>
 🌟 A passionate BCA student at Punjab University with a keen interest in web development and design.
 I’m on a journey to become a skilled Software Developer and love exploring new technologies and coding practices.
-
-🛠 Skills:
-Frontend Development: HTML, CSS, JavaScript, Bootstrap <!--Languages & tools-->
+<!--Languages & tools-->
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages and Tools</h1> 
 
 <p>
