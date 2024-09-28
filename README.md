@@ -3,7 +3,9 @@
 I’m on a journey to become a skilled Software Developer and love exploring new technologies and coding practices.
 
 🛠 Skills:
-Frontend Development: HTML, CSS, JavaScript, Bootstrap
+Frontend Development: HTML, CSS, JavaScript, Bootstrap <!--Languages & tools-->
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages and Tools</h1>
+
 
 Currently Learning: React
 
