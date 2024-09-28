@@ -1,3 +1,4 @@
+<h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/prince-tiwari-666aa0299" target="_blank">PRINCE TIWARI</h1>
 👋 Hello, I'm Prince Tiwari!
 🌟 A passionate BCA student at Punjab University with a keen interest in web development and design.
 I’m on a journey to become a skilled Software Developer and love exploring new technologies and coding practices.
