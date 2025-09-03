@@ -11,8 +11,6 @@ I’m on a journey to become a skilled Software Developer and love exploring new
 </p>
 
 
-Currently Learning: React
-
 Interested In: Building responsive web applications, contributing to open-source, and enhancing user experience.
 
 🚀 What I'm Working On: Building projects to enhance my web development skills.
